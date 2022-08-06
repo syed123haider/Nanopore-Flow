@@ -2,7 +2,7 @@
 
 # Nanopore-Flow
 
-![capillary_network_3d](https://user-images.githubusercontent.com/47212827/183047057-a5ea27f4-4e28-407f-a8a1-989d5369a396.png)
+![capillary_network_3d](https://user-images.githubusercontent.com/47212827/183047057-a5ea27f4-4e28-407f-a8a1-989d5369a396.png==250x250)
 
 The aim of the project is to exaplin the higher than the lab measured permeability in shale post hydraulicfracturing. In this study, we represent the high permeable system, as a capillary or network of capillaries that is being fed by gas from the nanopores connected to its surface. In the subsurface, a network of capillaries will represent a system of connected microfractures in contact with the kerogen matrix having locally well connected nanopore network. The flow rate at the outlet of this network will increase because of efficient gas discharge from the connected nanopores. 
 
